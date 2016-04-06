@@ -10,7 +10,7 @@
  * *********************************************************************************** */
 
 # modules/Leads/views/Detail.php
-# Assign lead fro ma group to the user who have opened this lead
+# Assign lead from a group to the user who have opened this lead
 # add $lead_assign_to_user_on_open_groups to config.inc.php
 # with an array of group names or id from which user should be assigned
 
